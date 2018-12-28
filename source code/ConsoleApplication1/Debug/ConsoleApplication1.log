@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\duckk\desktop\gameclassroom\source file\consoleapplication1\source.cpp(34): warning C4819: The file contains a character that cannot be represented in the current code page (0). Save the file in Unicode format to prevent data loss
+c:\users\duckk\desktop\gameclassroom\source file\consoleapplication1\source.cpp(35): warning C4819: The file contains a character that cannot be represented in the current code page (0). Save the file in Unicode format to prevent data loss
+c:\users\duckk\desktop\gameclassroom\source file\consoleapplication1\source.cpp(36): warning C4819: The file contains a character that cannot be represented in the current code page (0). Save the file in Unicode format to prevent data loss
+c:\users\duckk\desktop\gameclassroom\source file\consoleapplication1\source.cpp(37): warning C4819: The file contains a character that cannot be represented in the current code page (0). Save the file in Unicode format to prevent data loss
+c:\users\duckk\desktop\gameclassroom\source file\consoleapplication1\source.cpp(38): warning C4819: The file contains a character that cannot be represented in the current code page (0). Save the file in Unicode format to prevent data loss
+  ConsoleApplication1.vcxproj -> C:\Users\duckk\Desktop\GAMECLASSROOM\source file\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\duckk\Desktop\GAMECLASSROOM\source file\Debug\ConsoleApplication1.pdb (Full PDB)
